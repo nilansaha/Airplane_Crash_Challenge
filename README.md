@@ -12,7 +12,8 @@ lgbm_param_search.py - Code to search the best hyperparameter for LightGBM model
 forward_selection.py - Code for personal Forward Feature Selection Class
 ```
 
-**Note:**  
+**Notes:**  
+
 The features selected in the final model were selected using the forward selection code. I have not added code to use that but the docs are pretty clear for that so shouldn't be a big issue to use it for this dataset
 
 There might be some redundant code that is not used in the main model. I tried out a lot of things but did not bother cleaning them up
